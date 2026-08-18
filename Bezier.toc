@@ -1,8 +1,8 @@
-## Interface: 120000, 120001
+## Interface: 120100
 ## Title: Bezier
 ## Notes: Tracks achievements earned for the first time by raid members
 ## Author: 22a
-## Version: 1.1.0-Midnight.rc.0
+## Version: 1.1.1
 ## SavedVariables: BezierDB
 ## DefaultState: enabled
 ## X-Category: Achievements
